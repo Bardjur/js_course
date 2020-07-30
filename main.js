@@ -66,5 +66,4 @@ const personalMovieDB = {
             console.log(`Улюблений жанр №${key+1} - це ${val}`);
         });
     },
-
 };
